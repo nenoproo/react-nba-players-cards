@@ -1,0 +1,146 @@
+[
+    {
+        "id": 1,
+        "name": "Malik Monk",
+        "jerseyNumber": "#0",
+        "position": "Guard",
+        "age": 26,
+        "country": "USA",
+        "image": "src/assets/images/malik-monk.png"
+    },
+    {
+        "id": 2,
+        "name": "Jordan McLaughlin",
+        "jerseyNumber": "#3",
+        "position": "Guard",
+        "age": 28,
+        "country": "USA",
+        "image": "src/assets/images/jordan-mclaughlin.png"
+    },
+    {
+        "id": 3,
+        "name": "De'Aaron Fox",
+        "jerseyNumber": "#5",
+        "position": "Guard",
+        "age": 26,
+        "country": "USA",
+        "image": "src/assets/images/deaaron-fox.png"
+    },
+    {
+        "id": 4,
+        "name": "Doug McDermott",
+        "jerseyNumber": "#0",
+        "position": "Forward",
+        "age": 32,
+        "country": "USA",
+        "image": "src/assets/images/doug-mcdermott.png"
+    },
+    {
+        "id": 5,
+        "name": "Mason Jones",
+        "jerseyNumber": "#8",
+        "position": "Fuard",
+        "age": 26,
+        "country": "USA",
+        "image": "src/assets/images/mason-jones.png"
+    },
+    {
+        "id": 6,
+        "name": "Kevin Huerter",
+        "jerseyNumber": "#9",
+        "position": "Guard-Forward",
+        "age": 26,
+        "country": "USA",
+        "image": "src/assets/images/kevin-huerter.png"
+    },
+    {
+        "id": 7,
+        "name": "Demar Derozan",
+        "jerseyNumber": "#10",
+        "position": "Guard-Forward",
+        "age": 35,
+        "country": "USA",
+        "image": "src/assets/images/demar-derozan.png"
+    },
+    {
+        "id": 8,
+        "name": "Domantas Sabonis",
+        "jerseyNumber": "#11",
+        "position": "Forward-Center",
+        "age": 28,
+        "country": "Lithuania",
+        "image": "src/assets/images/domantas-sabonis.png"
+    },
+    {
+        "id": 9,
+        "name": "Keegan Murray",
+        "jerseyNumber": "#13",
+        "position": "Forward",
+        "age": 24,
+        "country": "USA",
+        "image": "src/assets/images/keegan-murray.png"
+    },
+    {
+        "id": 10,
+        "name": "Isaac Jones",
+        "jerseyNumber": "#17",
+        "position": "Forward",
+        "age": 24,
+        "country": "USA",
+        "image": "src/assets/images/isaac-jones.png"
+    },
+    {
+        "id": 11,
+        "name": "Colby Jones",
+        "jerseyNumber": "#20",
+        "position": "Guard",
+        "age": 22,
+        "country": "USA",
+        "image": "src/assets/images/colby-jones.png"
+    },
+    {
+        "id": 12,
+        "name": "Devin Carter",
+        "jerseyNumber": "#22",
+        "position": "Guard",
+        "age": 22,
+        "country": "USA",
+        "image": "src/assets/images/devin-carter.png"
+    },
+    {
+        "id": 13,
+        "name": "Keon Ellis",
+        "jerseyNumber": "#23",
+        "position": "Guard",
+        "age": 24,
+        "country": "USA",
+        "image": "src/assets/images/keon-ellis.png"
+    },
+    {
+        "id": 14,
+        "name": "Isaiah Crawford",
+        "jerseyNumber": "#24",
+        "position": "Forward",
+        "age": 23,
+        "country": "USA",
+        "image": "src/assets/images/isaiah-crawford.png"
+    },
+    {
+        "id": 15,
+        "name": "Alex Len",
+        "jerseyNumber": "#25",
+        "position": "Center",
+        "age": 31,
+        "country": "Ukraine",
+        "image": "src/assets/images/alex-len.png"
+    },
+    {
+        "id": 16,
+        "name": "Trey Lyles",
+        "jerseyNumber": "#41",
+        "position": "Forward",
+        "age": 29,
+        "country": "Canada",
+        "image": "src/assets/images/trey-lyles.png"
+    }
+]
